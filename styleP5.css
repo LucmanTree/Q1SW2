@@ -1,0 +1,25 @@
+.container1{
+	background-color:#2a4580;
+}
+.form1{
+	background-color:#b01738;
+	width:400px;
+	box-shadow: 2px 2px 2px  rgba(0, 0, 0, 0.8);
+	margin: auto;
+	paddin: 15px;
+}
+
+#submit{
+	background-color:#8baab0;
+	color: ghostwhite;
+
+}
+label{
+	font-weight:bold;
+	font-style:italic;
+}
+body{
+background-image:url(https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
